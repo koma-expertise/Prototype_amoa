@@ -1,8 +1,9 @@
 {
-  "name": "projet-koma",
+  "name": "prototype_amoa",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://koma-expertise.io/Prototype_amoa",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
